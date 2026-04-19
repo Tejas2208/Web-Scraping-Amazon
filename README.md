@@ -1,4 +1,5 @@
 🛒 Amazon Sneaker Web Scraping & EDA
+
 📌 Overview
 
 This project focuses on extracting sneaker product data from Amazon and performing Exploratory Data Analysis (EDA) to uncover patterns in pricing, discounts, ratings, and customer behavior.
